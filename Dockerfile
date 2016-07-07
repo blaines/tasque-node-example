@@ -1,0 +1,1 @@
+FROM blaines/tasque:latest
